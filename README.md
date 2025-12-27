@@ -18,6 +18,7 @@ The application is developed with a **clean and modular structure**, separating 
 - 🔄 Clear all values with one click
 - 🧠 Prevents multiple operators from being entered at the same time
 - ⚡ Instant result calculation
+- 🌐 Full responsiveness for all screen sizes
 
 ---
 
